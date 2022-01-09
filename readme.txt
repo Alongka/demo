@@ -1,6 +1,3 @@
 ## Profiles ##
 
-name: Chalong Korchakul
-Address : 20/15 Sermchart
-
-git add
+Name: Chalong Korchakul
